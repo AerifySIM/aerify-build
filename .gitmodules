@@ -1,0 +1,6 @@
+[submodule "current/site"]
+	path = current/site
+	url = https://github.com/AerifySIM/aerify.git
+[submodule "supabase"]
+	path = supabase
+	url = https://github.com/AerifySIM/aerify-backend.git
