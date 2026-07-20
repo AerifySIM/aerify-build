@@ -4,3 +4,7 @@
 [submodule "supabase"]
 	path = supabase
 	url = https://github.com/AerifySIM/aerify-backend.git
+[submodule "app"]
+	path = app
+	url = https://github.com/AerifySIM/app.git
+
